@@ -1,7 +1,7 @@
 .video__iframes {
     display: grid;
     grid-template-columns: 516px 516px;
-    gap: 20px;
+    column-gap: 20px;
     justify-content: center;
     padding-top: 60px;
     max-height: 266px;

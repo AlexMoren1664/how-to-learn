@@ -7,7 +7,7 @@
     width: 920px;
     display: grid;
     grid-template-columns: 240px 240px 240px;
-    gap: 100px;
+    column-gap: 100px;
     list-style-type: none;
     margin: auto;
     padding-left: 0;
